@@ -1,0 +1,8 @@
+llama-index
+sentence-transformers
+torch
+torchvision
+torchaudio
+numpy
+mysql-connector-python
+pypdf
